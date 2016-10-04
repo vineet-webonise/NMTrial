@@ -1,0 +1,6 @@
+framework module Pods_NMTrial {
+  umbrella header "Pods-NMTrial-umbrella.h"
+
+  export *
+  module * { export * }
+}

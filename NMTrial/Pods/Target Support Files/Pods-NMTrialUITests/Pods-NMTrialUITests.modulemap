@@ -1,0 +1,6 @@
+framework module Pods_NMTrialUITests {
+  umbrella header "Pods-NMTrialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
